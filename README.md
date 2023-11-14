@@ -9,5 +9,5 @@ The Drum Kit Game is a game which consist of various instruments and inorder to 
 In order to start the game, visit the below link
 
 ```bash
-  https://madhav984.github.io/Drum-Project/
+https://madhav984.github.io/DrumKit-Project/
 ```
